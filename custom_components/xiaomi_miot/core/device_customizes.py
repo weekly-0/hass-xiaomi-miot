@@ -3148,7 +3148,7 @@ DEVICE_CUSTOMIZES = {
         'button_actions': 'pause,cancel_cooking',
         'select_actions': 'start_cook',
         'chunk_coordinators': [
-            {'interval': 10, 'props': 'on,status'},
+            {'interval': 10, 'props': 'on,status,left_time'},
         ],
     },
     '*.curtain.*': {

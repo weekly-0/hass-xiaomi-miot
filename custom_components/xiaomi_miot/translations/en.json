@@ -220,6 +220,8 @@
         "sensor": {
             "clean_area": {"name": "Clean Area"},
             "clean_time": {"name": "Clean Time"},
+            "cooker-left_time": {"name": "Time Left"},
+            "custom-left_time": {"name": "Time Left"},
             "power_cost_today": {"name": "Energy Today"},
             "power_cost_month": {"name": "Energy Month"},
             "power_cost_today_2": {"name": "Energy Today"},
